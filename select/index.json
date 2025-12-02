@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "A 東京ガスには、”くらしを支えるプロ”がいる篇 15秒ver",
+  "base_artist": "東京ガス公式チャンネル",
+  "createdAt": "2025-12-02T01:17:16.910806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/01_A_Little_Love_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Little Love",
+      "artist": "Fiona Fung",
+      "has_synced": true,
+      "path": "select/02_A_Little_Love_Fiona_Fung.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "Belle",
+      "has_synced": false,
+      "path": "select/03_A_Million_Miles_Away_Belle.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Million Miles Away",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/04_A_Million_Miles_Away_Belle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A World Divided",
+      "artist": "Russell Brower, Neal Acree, Sam Cardon, Glenn Stafford & Edo Guidotti",
+      "has_synced": false,
+      "path": "select/05_A_World_Divided_Russell_Brower,_Neal_Acree,_Sam_Cardon,_Glenn_Stafford_&_Edo_Guidotti.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A World Divided",
+      "artist": "Russell Brower",
+      "has_synced": false,
+      "path": "select/06_A_World_Divided_Russell_Brower.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "John Paul Jones is a Pirate",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/07_John_Paul_Jones_is_a_Pirate_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Toss a Coin to Your Witcher (From \"the Witcher Series\")",
+      "artist": "Peter Hollens",
+      "has_synced": true,
+      "path": "select/08_Toss_a_Coin_to_Your_Witcher_(From__the_Witcher_Series_)_Peter_Hollens.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Kind Of Magic - Remastered 2011",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/09_A_Kind_Of_Magic_-_Remastered_2011_Queen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Thousand Horses",
+      "artist": "A Thousand Horses",
+      "has_synced": false,
+      "path": "select/10_A_Thousand_Horses_A_Thousand_Horses.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young feat. Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/11_At_the_End_of_a_Bar_Chris_Young_feat._Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "At the End of a Bar",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/12_At_the_End_of_a_Bar_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Break Up In A Bar",
+      "artist": "Eli Young Band",
+      "has_synced": true,
+      "path": "select/13_Break_Up_In_A_Bar_Eli_Young_Band.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't Have Mine (Find You a Girl)",
+      "artist": "Dylan Scott",
+      "has_synced": true,
+      "path": "select/14_Can't_Have_Mine_(Find_You_a_Girl)_Dylan_Scott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Another Story",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_Another_Story_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Addicted To You[UP-IN-HEAVEN MIX]",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_02_Addicted_To_You[UP-IN-HEAVEN_MIX]_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "arrows",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_03_arrows_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Am I wrong?",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_04_Am_I_wrong_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "愛をこめて花束を",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_05_愛をこめて花束を_Mr.Children.txt"
+    }
+  ]
+}
